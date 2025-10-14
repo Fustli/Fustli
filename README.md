@@ -13,8 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fustli&layout=compact&theme=radical" height="150"/>
 </div>
 
-## 🐍 My Contribution Graph Snake Game!
-
 ![Snake animation](https://raw.githubusercontent.com/Fustli/Fustli/output/github-contribution-grid-snake.svg)
 
 <h2>🚀 &nbsp;Some Tools I Have Used and Learned</h2>
