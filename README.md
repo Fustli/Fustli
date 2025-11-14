@@ -1,5 +1,5 @@
 # Hi there, I'm Norbert Bendegúz Hasznos! 👋
-**A passionate university student from Tószeg, Hungary**
+**Made in Tószeg, Hungary**
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2o5NWE3eGhoNTNhc2g0MWp4ZWxlcmM1dnZ2YWZ4OG4zbGdhcmM2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ortVnbxREpS2CDPmMP/giphy.gif" width="400" height="400"/>
